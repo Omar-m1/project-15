@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    font-size: large;
+}
+
+
+
+.imge{
+    margin-left: 335px;
+    margin-top: 235px;
+    width: 514px;
+    height: 307px;
+}
+ 
+.about-home p {
+    margin-left: 441px;
+    margin-top: 20px;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 20px
+   
+}
+.nav-link{
+    font-size: 25px;
+    font-family: auto;
+    font-weight: 900;
+    margin-left: 50px;
+    padding-right: 45px;
+}
+
+
+
+.subs{
+    font-size: 22px;
+    margin-top: 6px;
+    background-color: #ad1448;
+    padding-bottom: 14px;font-family: system-ui;
+    border-radius: 27px;
+    padding-left: 66px;
+    padding-top: 14px;
+    padding-right: 64px;
+    
+}
+
+
+
+.card-title{
+    font-size: x-large;
+    letter-spacing: 1px;
+}
+
+.card-text{
+    text-align: center;
+    font-size: xxx-large;
+    margin-top: 320px;
+
+}
+
+
+.card-img-top{
+    
+    height: 423px;
+}
+
+hr{
+   
+    border: none;
+    background-color: #2d194a;
+    height: 3px;
+    opacity: .76;
+    display:block;
+    text-align: center;
+}
+
+.sub{
+    font-size: 20px;
+    background-color: #ad1448;
+    padding-bottom: 14px;
+    font-family: system-ui;
+    border-radius: 27px;
+    padding-left: 64px;
+    padding-top: 14px;
+    padding-right: 64px;
+}
+
+
+.card{
+    margin-bottom:40px;
+}
+
+
+@media (min-width:570px){
+    .container{
+        max-width:400px;
+    }
+}
+@media (min-width:768px){
+    .container{
+        max-width:720px;
+    }
+}
+@media (min-width:992px){
+    .container{
+        max-width:960px;
+    }
+}
+@media (min-width:1200px){
+    .container{
+        max-width:1180px;
+    }
+}
